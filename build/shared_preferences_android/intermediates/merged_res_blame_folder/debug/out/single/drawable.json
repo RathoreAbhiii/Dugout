@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/joy/Documents/ML_ProjectII/Dugout_ui/build/shared_preferences_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/joy/.gradle/caches/transforms-3/bb9a188b1cd5f589ea1c0f9bbeca9202/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/joy/Documents/ML_ProjectII/Dugout_ui/build/shared_preferences_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/joy/.gradle/caches/transforms-3/bb9a188b1cd5f589ea1c0f9bbeca9202/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/joy/Documents/ML_ProjectII/Dugout_ui/build/shared_preferences_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/joy/.gradle/caches/transforms-3/bb9a188b1cd5f589ea1c0f9bbeca9202/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/joy/Documents/ML_ProjectII/Dugout_ui/build/shared_preferences_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/joy/.gradle/caches/transforms-3/bb9a188b1cd5f589ea1c0f9bbeca9202/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    }
+]

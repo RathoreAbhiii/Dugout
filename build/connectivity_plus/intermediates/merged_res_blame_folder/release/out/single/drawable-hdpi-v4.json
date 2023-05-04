@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/joy/Documents/ML_ProjectII/Dugout_ui/build/connectivity_plus/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/joy/.gradle/caches/transforms-3/bb9a188b1cd5f589ea1c0f9bbeca9202/transformed/core-1.6.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/joy/Documents/ML_ProjectII/Dugout_ui/build/connectivity_plus/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/joy/.gradle/caches/transforms-3/bb9a188b1cd5f589ea1c0f9bbeca9202/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/joy/Documents/ML_ProjectII/Dugout_ui/build/connectivity_plus/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/joy/.gradle/caches/transforms-3/bb9a188b1cd5f589ea1c0f9bbeca9202/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/joy/Documents/ML_ProjectII/Dugout_ui/build/connectivity_plus/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/joy/.gradle/caches/transforms-3/bb9a188b1cd5f589ea1c0f9bbeca9202/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/joy/Documents/ML_ProjectII/Dugout_ui/build/connectivity_plus/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/joy/.gradle/caches/transforms-3/bb9a188b1cd5f589ea1c0f9bbeca9202/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    }
+]

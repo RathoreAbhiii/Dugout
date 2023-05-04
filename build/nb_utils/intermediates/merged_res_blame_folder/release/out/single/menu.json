@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/joy/Documents/ML_ProjectII/Dugout_ui/build/nb_utils/intermediates/res/merged/release/menu/example_menu2.xml",
+        "source": "/home/joy/.gradle/caches/transforms-3/ea1607ae5b70edfcf893d2492ff35bd6/transformed/core-1.7.0/res/menu/example_menu2.xml"
+    },
+    {
+        "merged": "/home/joy/Documents/ML_ProjectII/Dugout_ui/build/nb_utils/intermediates/res/merged/release/menu/example_menu.xml",
+        "source": "/home/joy/.gradle/caches/transforms-3/ea1607ae5b70edfcf893d2492ff35bd6/transformed/core-1.7.0/res/menu/example_menu.xml"
+    }
+]

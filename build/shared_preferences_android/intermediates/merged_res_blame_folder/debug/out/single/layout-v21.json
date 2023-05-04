@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/joy/Documents/ML_ProjectII/Dugout_ui/build/shared_preferences_android/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/joy/.gradle/caches/transforms-3/bb9a188b1cd5f589ea1c0f9bbeca9202/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/joy/Documents/ML_ProjectII/Dugout_ui/build/shared_preferences_android/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/joy/.gradle/caches/transforms-3/bb9a188b1cd5f589ea1c0f9bbeca9202/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/joy/Documents/ML_ProjectII/Dugout_ui/build/shared_preferences_android/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/joy/.gradle/caches/transforms-3/bb9a188b1cd5f589ea1c0f9bbeca9202/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/joy/Documents/ML_ProjectII/Dugout_ui/build/shared_preferences_android/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/joy/.gradle/caches/transforms-3/bb9a188b1cd5f589ea1c0f9bbeca9202/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    }
+]

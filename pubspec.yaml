@@ -1,0 +1,36 @@
+name: cricket_worlcup_ui
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+
+  http:
+  cupertino_icons: ^1.0.3
+  nb_utils: ^4.4.8
+  cached_network_image: ^3.1.0
+  html: ^0.15.0
+  drop_shadow_image: ^0.9.1
+  connectivity_plus_web: ^1.2.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Regular.ttf
+  uses-material-design: true
+
+  assets:
+    - images/
+    - assets/
