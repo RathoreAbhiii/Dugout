@@ -1,4 +1,4 @@
-# cricket_worlcup_ui
+# Dugout
 
 A new Flutter project.
 
