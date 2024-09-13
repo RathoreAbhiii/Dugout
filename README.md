@@ -9,6 +9,9 @@ The Machine learning models have been successfully implemented for features like
 
 The application still has a huge scope of improvement by making the UI more pleasing, introducing several new features and most importantly be customized for currently ongoing cricket tournaments. 
 
+#### Note 
+This repo only contains the code for the UI of the application and not the machine learning models due to larger file sizes of the datasets used and their respective jupyter notebooks.
+
 ## Working
 
 
